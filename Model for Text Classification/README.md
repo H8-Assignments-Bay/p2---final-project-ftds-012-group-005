@@ -1,4 +1,4 @@
-References for Road Sign Classification Model:
+References :
 
 *Exploratory Data Analysis :*
 
