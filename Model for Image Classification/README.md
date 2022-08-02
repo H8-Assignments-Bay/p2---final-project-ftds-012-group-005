@@ -1,4 +1,5 @@
-References for Image Classification Model:
+### ***References***
+
 >   https://www.kode.id/ (***by Hacktiv8***)
     https://colab.research.google.com/github/ardhiraka/FSDS_Guidelines/blob/master/p2/w2/d1pm.ipynb#scrollTo=hhIFMAfa3Igq (***Hacktiv8 material course***) <br>
     https://www.kaggle.com/code/avikumart/computervision-intel-image-classification-project/notebook <br>
