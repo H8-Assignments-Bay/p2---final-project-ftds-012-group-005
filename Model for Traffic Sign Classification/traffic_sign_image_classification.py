@@ -58,24 +58,24 @@ drive.mount('/content/drive')
 
 """### *Downloading Data from Kaggle*"""
 
-# Make a directory named `.kaggle` 
-!mkdir ~/.kaggle
+# # Make a directory named `.kaggle` 
+# !mkdir ~/.kaggle
 
-## Copy the kaggle.json into this new directory 
-!cp kaggle.json ~/.kaggle/
+# ## Copy the kaggle.json into this new directory 
+# !cp kaggle.json ~/.kaggle/
 
-## Change permission for this directory : 
-!chmod 600 ~/.kaggle/kaggle.json
+# ## Change permission for this directory : 
+# !chmod 600 ~/.kaggle/kaggle.json
 
-#%%time 
-# Download Dataset
-# Source dataset : https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+# #%%time 
+# # Download Dataset
+# # Source dataset : https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
-!kaggle datasets download meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+# !kaggle datasets download meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
-# Every dataset that downloaded from Kaggle, is in format `.zip`. So, we must unzip it before we can using the dataset.
+# # Every dataset that downloaded from Kaggle, is in format `.zip`. So, we must unzip it before we can using the dataset.
 
-!unzip ./gtsrb-german-traffic-sign.zip
+# !unzip ./gtsrb-german-traffic-sign.zip
 
 """# Data Loading"""
 
@@ -180,7 +180,7 @@ with tf.device('/GPU:0'):
     epochs = 15
     model_learn = model.fit(X_train, y_train, batch_size=32, epochs=epochs, validation_data=(X_test, y_test))
 
-"""# 6. Visualizing the performance of the Model during Training Phase"""
+"""### *Visualizing the performance of the Model during Training Phase*"""
 
 # Plot if model performance on accuracy
 plt.plot(model_learn.history['accuracy'], 
@@ -202,7 +202,7 @@ plt.ylabel('Error')
 plt.legend()
 plt.show()
 
-"""# 7. Loading Test Dataset and Evaluating the Model"""
+"""### *Loading Test Dataset and Evaluating the Model*"""
 
 # Dictionary of each class
 classes = { 0:'Speed limit (20km/h)',
