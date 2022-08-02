@@ -1,0 +1,58 @@
+{"intents": [
+    {"tag": "salam",
+     "patterns": ["Hai", "Hi", "Halo", "Apa Kabar","Mau bertanya","Permisi", "Salam", "Ping", "P"],
+     "responses": ["Halo!", "Hai", "Halo, ada yang bisa saya bantu?", "Halo selamat datang", "Hai Kawan"]
+    },
+    {"tag": "salam_assalam",
+    "patterns": ["Assalamualaikum", "Assalamualaikum Warahmatullah", "Assalamualaikum Warahmatullahi Wabarakatu", "Assalamualaikum Warahmatullahi Wabarakatuh", "Assalamualaikum Wr Wb","Asalamualaikum","samlekom","samlekum"],
+    "responses": ["Waalaikumsalam kak"]
+   },
+    {"tag": "salam_pagi",
+     "patterns": ["Selamat Pagi", "Pagi", "Met Pagi","Pageee","pagee","pageeee","Morning","Good Morning"],
+     "responses": ["Selamat Pagi kak!"]
+    },
+    {"tag": "salam_siang",
+     "patterns": ["Selamat Siang", "Siang", "Met siang","siaaang","siaang","afternoon","Good Afternoon"],
+     "responses": ["Selamat Siang kak!"]
+    },
+    {"tag": "salam_malam",
+     "patterns": ["Selamat Malam", "Malam", "Met malam","Malaam","malaaam","evening","Good Evening","night","Good Night"],
+     "responses": ["Selamat Malam kak!"]
+    },
+    {"tag": "bye",
+     "patterns": ["Dadah", "Selamat Tinggal", "Dah", "Daah", "Semoga harimu menyenangkan", "Ok makasih", "Sampai Jumpa Lagi", "Ok bye"],
+     "responses": ["Sampai jumpa lagi yaa", "Kalau ada masalah, hubungi aku lagi ya", "Semoga harimu menyenangkan!"]
+    },
+    {"tag": "terimakasih",
+     "patterns": ["Terimakasih", "thanks", "thank you", "thank","makasi","muacih","muaciih","muaci","trims","oke","ok","tq"],
+     "responses": ["Senang bisa membatu :D"]
+    },
+    {"tag": "nama",
+     "patterns": ["nama kamu siapa?", "lu siapa?", "siapa sih lo?", "lu sape ?", "nama lo sape dah ?", "nama?"],
+     "responses": ["Namaku JoFiBot, salam kenal kak!", "Halo, aku JoFiBot!", "Kenalin, aku JoFiBot!"]
+    },
+    {"tag": "pekerjaan",
+     "patterns": ["lu ngapain?", "pekerjaan kamu apa?", "lu kerja apa?", "tugas kamu apa?", "tugas lo ngapain?"],
+     "responses": ["Aku bantu kak Marwan dan kak Rio dalam menjawab pertanyaan tentang JoFI", "Tugasku jadi asisten di aplikasi JoFI"]
+    },
+    {"tag": "jofi",
+    "patterns": ["emang JoFI apa si?", "apa tuh JoFI?", "Jofi apaan?", "JoFI emang apa?"],
+    "responses": ["JoFI adalah Journey Finder kak, sebuah applikasi travel recomendation, kakak bisa mendapatkan rekomendasi tempat liburan menarik sesuai preferensi kakak"]
+    },
+    {"tag": "website",
+     "patterns": ["website","websitenya apa","Cara tau rekomendasi liburannya gimana","web","site","info","ada website ga?",
+                "apakah ada webnya","spill", "kasih rekom liburan dong","pantai?", "gunung",
+                "air terjun?", "yang bagus dimana?", "candi?"],
+     "responses": ["Untuk travel recomendationnya, bisa kunjungi website kami ya di https:"]
+    },
+    {"tag": "creator",
+    "patterns": ["siapa pembuat JoFi?", "siapa pembuat apps ini?", "siapa yang buat?", "siapa pencipta Travelry", "apps nya siapa yang bikin", "Travelry siapa yang bikin?",
+                "dibuat oleh siapa?", "pembuatnya?", "siapa pembuatnya?", "pembuat", "creator?"],
+    "responses": ["JoFi di summon oleh Kak Marwan dan Kak Rio"]
+    },
+    {"tag": "qna",
+    "patterns": ["error","kalau mau tanya-tanya kemana ya?", "kalau mau nanya kodingan kemana ya?", "bisa bantu kodingan ga?", "bisa bantuin ngoding?"],
+    "responses": ["Kalau mau nanya lebih lanjut bisa ke github Kak Marwan : https://github.com/marwanmusa atau Kak Rio :https://github.com/rioarmiga"]
+    }
+]
+}
