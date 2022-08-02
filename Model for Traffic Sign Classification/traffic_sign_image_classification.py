@@ -15,15 +15,6 @@ More than 40 classes
 More than 50,000 images in total
 Large, lifelike database
 
-Modelling Workflow :
-1. Download and Imports
-2. Loading Dataset (Traffic Signs Images)
-3. Data Splitting and conversion
-4. Creating and Compiling the Model
-5. Training the Model
-6. Visualizing the performance of the Model during Training Phase
-7. Loading Test Dataset and Evaluating the Model
-8. Saving the Model
 
 # Import Libraries
 """
