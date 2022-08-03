@@ -1,0 +1,8 @@
+requests
+streamlit
+pandas
+Pillow
+pydeck
+numpy
+nltk
+tensorflow-cpu
