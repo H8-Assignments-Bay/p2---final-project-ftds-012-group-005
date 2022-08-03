@@ -23,7 +23,7 @@ This ***Project*** is a ***Final Project*** for Hacktiv8 Full Time Data Science 
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#JoFi-(JourneyFinder)">JoFi (JourneyFinder)</a>
+      <a href="#JoFi(JourneyFinder)">JoFi (JourneyFinder)</a>
     </li>
     <li>
       <a href="#introduction">Introduction</a>
@@ -31,7 +31,7 @@ This ***Project*** is a ***Final Project*** for Hacktiv8 Full Time Data Science 
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#cotributors">Contributors</a></li>
+    <li><a href="#contributors">Contributors</a></li>
     <li><a href="#references">References</a></li>
   </ol>
 </details>
