@@ -1,4 +1,4 @@
-Our *backend file* is too big and exceed the capacity of free github user accounts to upload data on github. So, we provide the `link` of our saved model on ***google drive*** :
+Our *backend file* is too big and exceed the capacity of free github user accounts to upload data on github. So, we provide the `link` of our backend file on ***google drive*** :
 
 ### ***Image Classification***
 > https://drive.google.com/drive/folders/1a0_1TDhRCa66VB49mT7YsX06dn9t4dxO?usp=sharing
