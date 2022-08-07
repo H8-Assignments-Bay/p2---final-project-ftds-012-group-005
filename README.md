@@ -158,7 +158,7 @@ This project is created as a collaboration project between:
     https://keras.io/api/layers/pooling_layers/max_pooling1d/<br>
 
 ### *Chatbot*
-    Full tutorial on NgodingPython YouTube Channel https://www.youtube.com/watch?v=sotu6YqPoY0 <br>
+>   Full tutorial on NgodingPython YouTube Channel https://www.youtube.com/watch?v=sotu6YqPoY0  <br>
     https://github.com/H8-Assignments-Bay/p2---final-project-group-004/blob/main/gitcoff_bot.py <br>
     https://github.com/gcatanese/TelegramBotDemo <br>
     https://towardsdatascience.com/bring-your-telegram-chatbot-to-the-next-level-c771ec7d31e4 <br>
