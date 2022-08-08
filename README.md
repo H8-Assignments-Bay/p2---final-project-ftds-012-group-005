@@ -41,6 +41,8 @@ This ***Project*** is a ***Final Project*** for Hacktiv8 Full Time Data Science 
 
 **Traveling** is an activity that is much favored by the public, usually people who like traveling are referred to as travelers. `Information about traveling` is very important for travelers, especially when visiting new places that have never been visited, therefore the information must be accurate and complete. Every traveler has different characteristics depending on their personality and preferences. There are mountain ⛰️ hikers, beach 🌊 hunters and etc. Therefore, through ***JoFi*** we build a ***hidden gem recommender system*** based on `user preferences`. *With JoFi, find your journey is never this easy*.
 
+***Tech : Numpy, Pandas, Matplotlib, Seaborn, OpenCV, nltk, TensorFlow, Scikit-Learn, Pillow, Wordcloud***
+
 <!-- USAGE EXAMPLES -->
 # Usage
 
